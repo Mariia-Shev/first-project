@@ -1,2 +1,3 @@
 # first-project
-My first ever GitHub repository.
+
+My first ever GitHub repository. :D
